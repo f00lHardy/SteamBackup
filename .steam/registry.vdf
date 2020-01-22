@@ -1,0 +1,102 @@
+"Registry"
+{
+	"HKLM"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"SteamPID"		"14171"
+					"TempAppCmdLine"		""
+				}
+			}
+		}
+	}
+	"HKCU"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"language"		"english"
+					"AutoLoginUser"		"fool_hardy"
+					"RememberPassword"		"1"
+					"SourceModInstallPath"		"/home/werner/.local/share/Steam/steamapps\sourcemods"
+					"Rate"		"30000"
+					"AlreadyRetriedOfflineMode"		"0"
+					"StartupMode"		"0"
+					"RunningAppID"		"0"
+					"Apps"
+					{
+						"621060"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"PC Building Simulator"
+						}
+						"1113280"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"228980"
+						{
+							"Updating"		"0"
+							"Installed"		"1"
+							"Running"		"0"
+						}
+						"787860"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"489830"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+							"name"		"The Elder Scrolls V: Skyrim Special Edition"
+						}
+						"1080770"
+						{
+							"Installed"		"1"
+						}
+						"329430"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"339300"
+						{
+							"Installed"		"1"
+						}
+						"339301"
+						{
+							"Installed"		"1"
+						}
+						"620"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+						"550"
+						{
+							"Installed"		"1"
+							"Updating"		"1"
+							"Running"		"0"
+						}
+					}
+				}
+			}
+		}
+	}
+}
