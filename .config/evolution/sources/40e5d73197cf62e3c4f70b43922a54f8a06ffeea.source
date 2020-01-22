@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=weriesb@gmail.com
+Enabled=true
+Parent=f4f3ec06214df4c8332c8ca093bfc402ba35a572
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=7659c7c357d9e86d3da3ed9e189d1c942e7af1d6
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://096ffb5e5ac1fd70a4cbcc6901dd66ebf90e17b9/%5bGmail%5d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=weriesb@gmail.com
+Aliases=
+Name=werner
+Organization=
+ReplyTo=
+SignatureUid=none

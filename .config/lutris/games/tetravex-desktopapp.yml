@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Tetravex
+  args: ''
+  exe: /usr/bin/gnome-tetravex
+linux: {}
+system:
+  disable_runtime: true

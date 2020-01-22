@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Reversi
+  args: ''
+  exe: /usr/bin/iagno
+linux: {}
+system:
+  disable_runtime: true

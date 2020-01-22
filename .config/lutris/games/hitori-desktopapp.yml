@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Hitori
+  args: ''
+  exe: /usr/bin/hitori
+linux: {}
+system:
+  disable_runtime: true

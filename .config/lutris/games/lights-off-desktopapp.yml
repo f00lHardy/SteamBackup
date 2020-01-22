@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.LightsOff
+  args: ''
+  exe: /usr/bin/lightsoff
+linux: {}
+system:
+  disable_runtime: true

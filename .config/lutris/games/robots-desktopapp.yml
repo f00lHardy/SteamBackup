@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Robots
+  args: ''
+  exe: /usr/bin/gnome-robots
+linux: {}
+system:
+  disable_runtime: true

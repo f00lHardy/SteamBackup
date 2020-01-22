@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Chess
+  args: ''
+  exe: /usr/bin/gnome-chess
+linux: {}
+system:
+  disable_runtime: true

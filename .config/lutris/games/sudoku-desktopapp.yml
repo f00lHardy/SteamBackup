@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Sudoku
+  args: ''
+  exe: /usr/bin/gnome-sudoku
+linux: {}
+system:
+  disable_runtime: true

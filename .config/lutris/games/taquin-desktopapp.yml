@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Taquin
+  args: ''
+  exe: /usr/bin/gnome-taquin
+linux: {}
+system:
+  disable_runtime: true

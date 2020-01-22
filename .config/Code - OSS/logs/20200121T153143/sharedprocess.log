@@ -1,0 +1,7 @@
+[2020-01-21 15:31:48.084] [sharedprocess] [info] main {"machineId":"ce348f15e08a141d52de4d08300f7a8f0975eda15e1a984ba3143b583624d03f","windowId":2}
+[2020-01-21 15:31:53.514] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-01-21 15:31:56.029] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/6756ba49-688d-4be6-97c7-c073cccf9b80
+[2020-01-21 15:31:56.064] [sharedprocess] [info] Extracted extension to /home/werner/.vscode-oss/extensions/.dbaeumer.vscode-eslint-2.0.15: dbaeumer.vscode-eslint
+[2020-01-21 15:31:56.064] [sharedprocess] [info] Renamed to /home/werner/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.0.15
+[2020-01-21 15:31:56.065] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-01-21 15:31:56.203] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint

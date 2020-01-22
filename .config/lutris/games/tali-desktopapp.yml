@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Tali
+  args: ''
+  exe: /usr/bin/tali
+linux: {}
+system:
+  disable_runtime: true

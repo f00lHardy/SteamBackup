@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.five-or-more
+  args: ''
+  exe: /usr/bin/five-or-more
+linux: {}
+system:
+  disable_runtime: true

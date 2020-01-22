@@ -1,0 +1,8 @@
+Looking for git in: git
+Using git 2.25.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/werner
+> git status -z -u
+> git show :.i3/config
+> git check-ignore -v -z --stdin

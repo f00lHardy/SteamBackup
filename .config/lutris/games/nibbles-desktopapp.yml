@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Nibbles
+  args: ''
+  exe: /usr/bin/gnome-nibbles
+linux: {}
+system:
+  disable_runtime: true

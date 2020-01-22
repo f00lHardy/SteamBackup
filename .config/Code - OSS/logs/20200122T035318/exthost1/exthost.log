@@ -1,0 +1,46 @@
+[2020-01-22 03:53:20.155] [exthost] [info] extension host started
+[2020-01-22 03:53:20.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-01-22 03:53:20.191] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-01-22 03:53:20.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-01-22 03:53:20.203] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2020-01-22 03:53:20.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-22 03:53:20.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-01-22 03:53:20.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-22 03:53:20.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-01-22 03:53:20.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-22 03:53:20.264] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-01-22 03:53:20.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-22 03:53:20.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-01-22 03:53:20.269] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-22 03:53:20.269] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-22 03:53:20.272] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-01-22 03:53:20.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/hookyqr.beautify-1.5.0/extension
+[2020-01-22 03:53:20.306] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-01-22 03:53:20.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-01-22 03:53:20.483] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-22 03:53:20.483] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-22 03:53:20.534] [exthost] [info] eager extensions activated
+[2020-01-22 05:13:43.349] [exthost] [info] extension host started
+[2020-01-22 05:13:43.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-22 05:13:43.359] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-01-22 05:13:43.362] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-22 05:13:43.362] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-01-22 05:13:43.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-22 05:13:43.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-01-22 05:13:43.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-22 05:13:43.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-01-22 05:13:43.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-22 05:13:43.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-01-22 05:13:43.401] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-22 05:13:43.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.0.15/client/out/extension
+[2020-01-22 05:13:43.405] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-01-22 05:13:43.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/hookyqr.beautify-1.5.0/extension
+[2020-01-22 05:13:43.428] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-01-22 05:13:43.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-01-22 05:13:43.596] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-01-22 05:13:43.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/werner/.vscode-oss/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-22 05:13:43.835] [exthost] [info] eager extensions activated
+[2020-01-22 05:14:17.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-01-22 05:14:17.820] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2020-01-22 05:18:16.882] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-01-22 05:18:16.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/css-language-features/client/dist/cssMain

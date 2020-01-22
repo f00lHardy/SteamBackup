@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Klotski
+  args: ''
+  exe: /usr/bin/gnome-klotski
+linux: {}
+system:
+  disable_runtime: true

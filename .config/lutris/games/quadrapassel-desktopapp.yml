@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Quadrapassel
+  args: ''
+  exe: /usr/bin/quadrapassel
+linux: {}
+system:
+  disable_runtime: true

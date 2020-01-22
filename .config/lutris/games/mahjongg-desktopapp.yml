@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Mahjongg
+  args: ''
+  exe: /usr/bin/gnome-mahjongg
+linux: {}
+system:
+  disable_runtime: true

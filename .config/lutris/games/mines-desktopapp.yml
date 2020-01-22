@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Mines
+  args: ''
+  exe: /usr/bin/gnome-mines
+linux: {}
+system:
+  disable_runtime: true

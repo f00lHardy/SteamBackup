@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.Four-in-a-row
+  args: ''
+  exe: /usr/bin/four-in-a-row
+linux: {}
+system:
+  disable_runtime: true

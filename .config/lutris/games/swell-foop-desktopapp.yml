@@ -1,0 +1,7 @@
+game:
+  appid: org.gnome.SwellFoop
+  args: ''
+  exe: /usr/bin/swell-foop
+linux: {}
+system:
+  disable_runtime: true
